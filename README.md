@@ -8,9 +8,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
 
-![image title](https://rushter.com/counter.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Younes-7&show_icons=true&theme=merko)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
