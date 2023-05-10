@@ -5,7 +5,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=pr,ps)
 
-[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](zil.ink/younes_khorablou)
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://zil.ink/younes_khorablou)
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
